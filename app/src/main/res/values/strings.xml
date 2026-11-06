@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VPN</string>
+    <string name="tile_label">VPN</string>
+    <string name="notification_channel">VPN-подключение</string>
+    <string name="notification_title">VPN</string>
+</resources>

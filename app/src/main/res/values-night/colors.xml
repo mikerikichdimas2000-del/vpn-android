@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0A0A0C</color>
+    <color name="surface">#141519</color>
+    <color name="text_primary">#F2F3F5</color>
+    <color name="text_secondary">#8E939B</color>
+    <color name="text_tertiary">#6F747D</color>
+    <color name="divider">#202228</color>
+    <color name="card_border">#1C1E23</color>
+    <color name="accent">#2FE0A0</color>
+    <color name="chip_bg">#131418</color>
+    <color name="chip_border">#26282E</color>
+    <color name="danger">#FF6369</color>
+    <color name="ic_launcher_background">#0A0A0C</color>
+</resources>

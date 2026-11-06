@@ -1,0 +1,13 @@
+.gradle/
+local.properties
+**/build/
+app/libs/*.jar
+*.iml
+.idea/
+.kotlin/
+
+# Секреты сборки: ключ подписи и его пароли в репозиторий не попадают.
+signing.properties
+*.jks
+*.keystore
+*.b64
