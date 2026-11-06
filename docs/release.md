@@ -76,4 +76,4 @@ git push origin main --tags
 | `KEY_ALIAS` | `vpn` |
 | `KEY_PASSWORD` | пароль ключа |
 
-Файл `%USERPROFILE%\..\AI\secrets\vpn-release.jks.b64` — исходник для первого секрета.
+Файл `C:\Users\Admin\Desktop\AI\secrets\vpn-release.jks.b64` — исходник для первого секрета.
