@@ -32,8 +32,8 @@ android {
         applicationId = "com.dryakhlitsyn.vpn"
         minSdk = 23
         targetSdk = 35
-        versionCode = 6
-        versionName = "0.4.0"
+        versionCode = 7
+        versionName = "0.4.1"
 
         // Манифест обновлений: ассет latest.json последнего релиза на GitHub.
         buildConfigField(
